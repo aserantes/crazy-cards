@@ -1,6 +1,3 @@
-Tech Challenge for TotallyMoney.
-Production link: https://crazy-cards.aserantes.vercel.app/
-
 ## Crazy-Cards
 
 _A Credit Card eligibility checker. Tech Challenge for TotallyMoney._
